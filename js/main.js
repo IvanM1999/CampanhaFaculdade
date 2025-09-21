@@ -1,6 +1,4 @@
-/* main.js — manipulação de temas, carregamento de posts e formulário de contato
-   Objetivo: código pequeno, sem dependências externas, pronto para SPCK/editor local. */
-
+/* main.js — manipulação de temas, carregamento de posts e formulário de contato*/
 (function(){
   const themeOrder = ['theme-default','theme-dark','theme-neon','theme-ac'];
   let current = 0;
