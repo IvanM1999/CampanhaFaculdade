@@ -1,2 +1,1 @@
-# CampanhaFaculdade
-Camoanha do dia das crianças 
+# Campanha solidária Uniasselvi 
